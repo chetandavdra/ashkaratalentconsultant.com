@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body id="page-top" class="index">
+
+    {% include header.html %}
+
+    <section class="c-section">
+      <div class="c-section__inner" style="margin-top: 80px; margin-bottom: 80px; max-width: 600px;">
+        <h2 class="c-section__heading" style="padding-right: 0;">
+          {{ page.title }}
+        </h2>
+
+        <div>
+          {{ content }}
+        </div>
+      </div>
+    </section>
+
+    {% include footer.html %}
+
+  </body>
+</html>

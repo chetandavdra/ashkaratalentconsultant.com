@@ -1,0 +1,33 @@
+<section class="c-section" id="openings">
+  <div class="c-section__inner">
+    <h2 class="c-section__heading">
+      Current Openings
+    </h2>
+
+    <div class="c-openings">
+      {% assign sorted_categories = site.categories | sort %}
+      {% for category in sorted_categories %}
+
+        <div class="c-openings__col">
+
+          <h3 class="c-openings__heading" name="{{ category | first }}">
+            {{ category | first }}
+          </h3>
+
+          <ul class="c-openings__list">
+            {% for post in category.last %}
+            <li class="c-openings__opening">
+              <a
+                class="portfolio-link"
+                data-toggle="modal"
+                href="#portfolioModal{{ post.title | slugify }}"
+              >{{ post.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+
+      {% endfor %}
+    </div>
+  </div>
+</section>

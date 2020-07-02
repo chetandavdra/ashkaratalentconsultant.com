@@ -1,0 +1,130 @@
+.c-footer {
+  background-color: #222A35;
+}
+
+.c-footer__inner {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+  min-height: 342px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding: 20px;
+}
+
+@media(min-width:767px) {
+  .c-footer__inner {
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+.c-footer__col {
+  width: 100%;
+  margin-bottom: 40px;
+}
+
+.c-footer__col:last-child {
+  margin-bottom: 0;
+}
+
+
+@media(min-width:767px) {
+  .c-footer__col {
+    width: 50%;
+    margin-bottom: 0;
+  }
+}
+
+.c-footer__heading {
+  font-family: {{ site.data.template.font.primary }};
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+  color: #fff;
+  margin: 20px 0 0 0;
+  padding: 0;
+}
+
+@media(min-width:767px) {
+  .c-footer__heading {
+    margin: 0;
+  }
+}
+
+.c-footer__social {
+  display: flex;
+  margin: 0 0 25px;
+  padding: 0;
+  list-style: none;
+  border-left: 1px solid #fff;
+}
+
+.c-footer__social-link {
+  border-bottom: 1px solid #fff;
+}
+
+.c-footer__social-link a {
+  display: block;
+  padding: 10px;
+  border-top: 1px solid #fff;
+  border-right: 1px solid #fff;
+}
+
+.c-footer__contact {
+  font-family: {{ site.data.template.font.primary }};
+  font-size: 16px;
+  color: #fff;
+}
+
+.c-footer__contact a {
+  font-family: {{ site.data.template.font.primary }};
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  cursor: pointer;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.c-footer__locations {
+  font-family: {{ site.data.template.font.primary }};
+  font-size: 20px;
+  font-weight: 700;
+  color: #fff;
+
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+  border-bottom: 1px solid #3b3b3b;
+}
+
+.c-footer__copyright {
+  font-family: {{ site.data.template.font.primary }};
+  font-size: 16px;
+  color: #fff;
+}
+
+
+
+@media(min-width:767px) {
+  .c-footer__col-tagline {
+    display: none;
+  }
+}
+
+.c-footer__col-hero {
+  display: none;
+}
+
+@media(min-width:767px) {
+  .c-footer__col-hero {
+    display: block;
+    position: absolute; 
+    right: 0; 
+    top: 0; 
+    text-align: right;
+  }
+}

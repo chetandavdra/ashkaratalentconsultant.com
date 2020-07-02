@@ -1,0 +1,249 @@
+<section class="c-section" style="border-bottom: 1px solid #ccc;">
+  <div class="c-section__inner">
+    <h2 class="c-section__heading">
+      Our Philosophy
+    </h2>
+
+    <ul class="c-philosophy__list">
+      <li class="c-philosophy__list-item" style="background-color: #eeeeee;">
+        <h3>Partnership</h3>
+        <p class="c-philosophy__text">
+          A partnership built on trust and doing the right thing for clients and talent alike.
+        </p>
+      </li>
+
+      <li class="c-philosophy__list-item" style="background-color: #C20AC2;">
+        <h3 style="color: #fff;">Transparency</h3>
+        <p style="color: #fff;" class="c-philosophy__text">
+          A simple, honest and meaningful conversation is how we want to forge our path to success.
+        </p>
+      </li>
+
+      <li class="c-philosophy__list-item" style="background-color: #222A35;">
+        <h3 style="color: #fff;">Service & Quality</h3>
+        <p style="color: #fff;" class="c-philosophy__text">
+          We are reliable, responsive and committed to delivering solutions that exceed your expectations.
+        </p>
+      </li>
+
+      <li class="c-philosophy__list-item" style="background-color: #E1CA1D;">
+        <h3>Progress</h3>
+        <p class="c-philosophy__text">
+          We have a sense of urgency and dedication throughout the iterative process.
+        </p>
+      </li>
+    </ul>
+  </div>
+</section>
+
+
+
+<section class="c-section" id="services">
+  <div class="c-section__inner">
+    <h2 class="c-section__heading">
+      Our expertise are in the following disciplines:
+    </h2>
+
+    <ul class="c-accordian">
+      <li class="c-accordian__item">
+        <a href=#list6 class="toggle">
+          Client Services
+        </a>
+
+        <div class="toggle-content" id="list6">
+          <div class="accordian-content">
+            <ul>
+              <li>Client Partnerships</li>
+              <li>Account Management</li>
+            </ul>
+          </div>
+        </div>
+      </li>
+
+      <li class="c-accordian__item">
+        <a href=#list1 class="toggle">
+          Creative
+        </a>
+
+        <div class="toggle-content" id="list1">
+          <div class="accordian-content">
+            <ul>
+              <li>Creative Direction</li>
+              <li>Art Direction</li>
+              <li>Visual Design</li>
+              <li>Copy</li>
+              <li>Motion</li>
+            </ul>
+          </div>
+        </div>
+      </li>
+
+      <li class="c-accordian__item">
+        <a href=#list5 class="toggle">
+          Delivery/Product
+        </a>
+
+        <div class="toggle-content" id="list5">
+          <div class="accordian-content">
+            <ul>
+              <li>Digital Project Management</li>
+              <li>Product Management</li>
+            </ul>
+          </div>
+        </div>
+      </li>
+
+      <li class="c-accordian__item">
+        <a href=#list4 class="toggle">
+          Strategy
+        </a>
+
+        <div class="toggle-content" id="list4">
+          <div class="accordian-content">
+            <ul>
+              <li>Brand Strategy</li>
+              <li>Research Strategy</li>
+              <li>Business Strategy</li>
+              <li>Product Strategy</li>
+            </ul>
+          </div>
+        </div>
+      </li>
+
+      <li class="c-accordian__item">
+        <a href=#list2 class="toggle">
+          Technology
+        </a>
+
+        <div class="toggle-content" id="list2">
+          <div class="accordian-content">
+            <ul>
+              <li>Front-end Development</li>
+              <li>Back-end Development</li>
+              <li>Mobile Engineer</li>
+              <li>Creative Technology</li>
+            </ul>
+          </div>
+        </div>
+      </li>
+
+      <li class="c-accordian__item">
+        <a href=#list3 class="toggle">
+          User Experience
+        </a>
+
+        <div class="toggle-content" id="list3">
+          <div class="accordian-content">
+            <ul>
+              <li>UX Design/Direction</li>
+              <li>User Research</li>
+              <li>Information Architect</li>
+              <li>UX Strategy</li>
+            </ul>
+          </div>
+        </div>
+      </li>
+
+    </ul>
+  </div>
+</section>
+
+  <script>
+      var maincontent = document.getElementsByClassName("toggle");
+        // Note: getElemenstByClassName will return an array of elements (even if there's only one).
+        for (var i = 0; i < maincontent.length; i++) {
+        //For each element in the maincontent array, add an onclick event.
+        maincontent[i].onclick = function(event) {
+          //What this does is gets the first item, from an array of elements that have the class 'sub-content', from the parent node of the element that was clicked:
+          var info = event.target.parentNode.getElementsByClassName("toggle")[0];
+          if (info.className.indexOf("toggle-on") > -1) { // If the 'sub-content' also contains the class 'show', remove the class.
+            info.className = info.className.replace(/(?:^|\s)toggle-on(?!\S)/g, '');
+          } else { // Otherwise add the class.
+            info.className = info.className + " toggle-on";
+          }
+        }
+      }
+      // Show an element
+      var show = function (elem) {
+        // Get the natural height of the element
+        var getHeight = function () {
+          elem.style.display = 'block'; // Make it visible
+          var height = elem.scrollHeight + 'px'; // Get it's height
+          elem.style.display = ''; //  Hide it again
+          return height;
+        };
+        var height = getHeight(); // Get the natural height
+        elem.classList.add('is-visible'); // Make the element visible
+        elem.style.height = height; // Update the max-height
+        // Once the transition is complete, remove the inline max-height so the content can scale responsively
+        window.setTimeout(function () {
+          elem.style.height = '';
+        }, 350);
+      };
+      // Hide an element
+      var hide = function (elem) {
+        // Give the element a height to change from
+        elem.style.height = elem.scrollHeight + 'px';
+        // Set the height back to 0
+        window.setTimeout(function () {
+          elem.style.height = '';
+        }, 1);
+        // When the transition is complete, hide it
+        window.setTimeout(function () {
+          elem.classList.remove('is-visible');
+        }, 350);
+      };
+      // Toggle element visibility
+      var toggle = function (elem, timing) {
+        // If the element is visible, hide it
+        if (elem.classList.contains('is-visible')) {
+          hide(elem);
+          return;
+        }
+        // Otherwise, show it
+        show(elem);
+      };
+      // Listen for click events
+      document.addEventListener('click', function (event) {
+        // Make sure clicked element is our toggle
+        if (!event.target.classList.contains('toggle')) return;
+        // Prevent default link behavior
+        event.preventDefault();
+        // Get the content
+        var content = document.querySelector(event.target.hash);
+        if (!content) return;
+        // Toggle the content
+        toggle(content);
+      }, false);
+    </script>
+
+
+<section class="c-section c-section__dark" id="solutions">
+  <div class="c-section__inner">
+    <h2 class="c-section__heading">
+      The aim is to be a pivotal partner; an invaluable extension to your talent acquisition strategy. We care about your business objectives and delivering scalable solutions through a human-centric approach<span class="color-purple">.</span>
+    </h2>
+
+    <ul class="c-services">
+      <li class="c-services__item">
+        <h3 class="c-services__heading">Direct Hire</h3>
+        <p class="c-services__text">Adapts and supports your rapid business growth.</p>
+      </li>
+
+      <li class="c-services__item">
+        <h3 class="c-services__heading">Contract-to-hire</h3>
+        <p class="c-services__text">A short term on-site evaluation to determine a mutual fit prior to a long term commitment.</p>
+      </li>
+
+      <li class="c-services__item">
+        <h3 class="c-services__heading">Contingent Staffing</h3>
+        <p class="c-services__text">Short and long term solutions that effectively address your project requirements.</p>
+      </li>
+
+      <li class="c-services__item">
+        <h3 class="c-services__heading">360 Recruiting Audit</h3>
+        <p class="c-services__text">Evaluate your business objectives and challenges in talent acquisition. Provide strategic recommendations to advance your talent strategy.</p>
+      </li>
+    </ul>
+  </div>
+</section>
