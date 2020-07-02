@@ -1,0 +1,122 @@
+<!-- Portfolio Modals -->
+{% for post in site.posts %}
+<div class="portfolio-modal modal fade" id="portfolioModal{{ post.title | slugify }}" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+        <div class="rl">
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="modal-body">
+            <h2>{{ post.title }}</h2>
+            <p>Location: {{ post.location }}</p>
+            <hr />
+            Date Posted: {{ post.date | date: '%B %d, %Y' }}
+
+            <div style="margin-top: 40px; margin-bottom: 40px;">{{ post.content }}</div>
+
+            <hr />
+
+            <div class="c-apply">
+              <p>
+                Apply to Opening<br />
+                <strong>{{ post.title }}</strong>
+              </p>
+
+              <form
+                accept-charset="UTF-8"
+                action="https://getsimpleform.com/messages?form_api_token=e4c5c9588a7e801051d90110785289f5"
+                method="post"
+                enctype="multipart/form-data"
+              >
+                <div class="row">
+                  <div class="col-md-12">
+                    <input type='hidden' name='redirect_to' value='http://ashkaratalentconsultant.com/thanks-for-your-application.html' />
+                    <input type="hidden" name="job title" value="{{ post.title }}">
+
+                    <div class="control-group form-group">
+                      <input
+                        required
+                        type="text"
+                        class="form-control"
+                        placeholder="First Name"
+                        id="firstName"
+                        name="first name"
+                      >
+                    </div>
+
+                    <div class="control-group form-group">
+                      <input
+                        required
+                        type="text"
+                        class="form-control"
+                        placeholder="Last Name"
+                        id="lastName"
+                        name="last name"
+                      >
+                    </div>
+
+                    <div class="control-group form-group">
+                      <input
+                        required
+                        type="email"
+                        class="form-control"
+                        placeholder="Email"
+                        id="email"
+                        name="email"
+                      >
+                    </div>
+
+
+                    <div class="control-group form-group">
+                      <input
+                        required
+                        type="text"
+                        class="form-control"
+                        placeholder="Phone Number"
+                        id="phoneNumber"
+                        name="phone number"
+                      >
+                    </div>
+
+
+                    <div class="control-group form-group">
+                      <input
+                        type="text"
+                        class="form-control"
+                        placeholder="Website"
+                        id="website"
+                        name="website"
+                      >
+                    </div>
+
+                    <div class="control-group form-group" style="position: relative; margin-bottom: 60px;">
+                      <input
+                        style="padding-left: 60px;"
+                        type="file"
+                        class="form-control custom-file-input"
+                        placeholder=""
+                        id="resume"
+                        name="resume"
+                      >
+                    </div>
+
+                    <div class="text-center">
+                      <button type="submit" class="btn btn-xl">Apply</button>
+                    </div>
+                  </div>
+                </div>
+              </form>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}
