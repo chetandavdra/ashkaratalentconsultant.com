@@ -35,7 +35,7 @@
 
 @media(min-width: 1220px) {
   .c-hero {
-    min-height: 800px;
+    min-height: 860px;
   }
 }
 
@@ -67,7 +67,8 @@
 
 @media(min-width: 992px) {
   .c-hero__heading {
-    font-size: 60px;
-    line-height: 60px;
+    font-size: 75px;
+    line-height: 90px;
+    margin-right: 80px;
   }
 }
