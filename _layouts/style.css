@@ -5,6 +5,7 @@
 {% include css/section.css %}
 {% include css/about.css %}
 {% include css/philosophy.css %}
+{% include css/di.css %}
 {% include css/brands.css %}
 {% include css/openings.css %}
 {% include css/modal.css %}

@@ -1,0 +1,37 @@
+.c-section__yellow{
+    background: #E1CA1D;
+    padding-top: 0;
+    padding-bottom: 30px;
+}
+
+.di_banner__col{
+    max-width: 100%;
+}
+
+.di_content__col{
+    max-width: 100%;
+}
+
+@media(min-width:767px) {
+    .c-section__yellow{
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    #di .c-section__inner{
+        display: flex;
+        align-items: center;
+    }
+
+    .di_banner__col{
+        width: 45%;
+    }
+    .di_content__col{
+        width: 65%;
+        padding: 30px;
+    }
+}
+
+.c-section__yellow .c-section__heading{
+    color:#ffffff;
+}
