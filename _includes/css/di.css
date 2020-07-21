@@ -26,14 +26,18 @@
     }
 
     .di_banner__col{
-        width: 45%;
+        width: 40%;
+    }
+    .di_separator__col{
+        width: 5%;
     }
     .di_content__col{
         max-width: 675px;
-        padding: 30px;
+        padding: 30px 30px 15px 30px;
     }
 }
 
 .c-section__yellow .c-section__heading{
     color:#ffffff;
+    padding-bottom: 25px;
 }
