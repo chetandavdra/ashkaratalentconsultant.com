@@ -1052,6 +1052,8 @@ body {
 
 .di_content__col{
     max-width: 100%;
+    color: #222A35;
+    font-size: 17px;
 }
 
 @media(min-width:767px) {
@@ -1069,7 +1071,7 @@ body {
         width: 45%;
     }
     .di_content__col{
-        width: 65%;
+        max-width: 675px;
         padding: 30px;
     }
 }
