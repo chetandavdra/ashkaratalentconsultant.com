@@ -112,6 +112,9 @@
 }
 
 
+.c-footer__col-tagline {
+  display: none;
+}
 
 @media(min-width:767px) {
   .c-footer__col-tagline {
