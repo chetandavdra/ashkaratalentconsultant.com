@@ -22,6 +22,7 @@
 .c-footer__col {
   width: 100%;
   margin-bottom: 40px;
+  padding:0 20px;
 }
 
 .c-footer__col:last-child {
@@ -33,6 +34,7 @@
   .c-footer__col {
     width: 50%;
     margin-bottom: 0;
+    padding:0;
   }
 
   .c-footer-address{
@@ -118,7 +120,8 @@
 }
 
 .c-footer__col-hero {
-  display: none;
+  /* display: none; */
+  padding:0;
 }
 
 @media(min-width:767px) {
