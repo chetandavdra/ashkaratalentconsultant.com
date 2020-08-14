@@ -5,7 +5,9 @@
 .c-testimonials__list {
   margin: 40px 0 0 0;
   padding: 0;
-  list-style: none;;
+  list-style: none;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 @media(min-width:992px) {
@@ -13,6 +15,8 @@
     margin: 0;
     display: flex;
     padding-top: 60px;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 
