@@ -29,7 +29,9 @@
   margin-bottom: 0;
 }
 
-
+.c-footer-address{
+  padding-top: 20%;
+}
 @media(min-width:767px) {
   .c-footer__col {
     width: 50%;
