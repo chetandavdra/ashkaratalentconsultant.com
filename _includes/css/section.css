@@ -64,6 +64,8 @@
 
 .c-section__dark .c-section__heading {
   color: #fff;
+  padding-left: 0;
+  padding-right: 0;
 } 
 
 
