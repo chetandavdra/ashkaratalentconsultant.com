@@ -1,5 +1,6 @@
 .c-hero {
-  padding: 20px;
+  /* padding: 20px; */
+  padding: 60px 20px 20px 20px;
   background-color: #222A35;
   min-height: 200px;
   /* display: flex; */
