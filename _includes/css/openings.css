@@ -1,5 +1,7 @@
 .c-openings {
   border-top: 5px solid #E1CA1D;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 #openings .c-section__inner {
@@ -10,6 +12,8 @@
   .c-openings {
     display: flex;
     flex-wrap: wrap;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .c-openings__col {
