@@ -130,7 +130,8 @@
 .c-accordian {
   border-top: 5px solid #E1CA1D;
   margin: 0;
-  padding: 0;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 @media(min-width: 767px) {
