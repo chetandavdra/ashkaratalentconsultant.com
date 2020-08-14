@@ -17,6 +17,11 @@
     padding: 0 20px 0 20px;
 }
 
+.di_content__col h2.c-section__heading{
+    padding-left:0;
+    padding-right: 0;
+}
+
 @media(min-width:767px) {
     .c-section__yellow{
         padding-top: 0;
