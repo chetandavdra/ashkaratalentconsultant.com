@@ -1,8 +1,8 @@
 ---
 title: Freelance Sr. Copywriter (Pharma)
 date: 2020-08-18 16:34:00 Z
-tags:
-- Creative
+categories:
+- creative
 location: Remote
 ---
 
