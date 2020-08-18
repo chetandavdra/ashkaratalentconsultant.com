@@ -11,12 +11,10 @@ Our client, a digital agency that helps companies become digital leaders and rea
 As the Freelance Senior Copywriter, you will be a strategic partner assisting in the RFP process, bring thought leadership POV, and Pharma industry experience. 
 
 The ideal person:
+
 • Must have a deep portfolio of Pharma work.
-
 • Solid understanding of Medical, Regulatory, and Legal requirements of digital and social projects is a must-have.
- 
 • Must have developed content, campaigns, social executions, and long-form copy. 
-
 • Must be available immediately and committed to the continuation of work.
 
 
