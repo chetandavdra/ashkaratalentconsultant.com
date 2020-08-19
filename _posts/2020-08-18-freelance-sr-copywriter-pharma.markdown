@@ -12,10 +12,10 @@ As the Freelance Senior Copywriter, you will be a strategic partner assisting in
 
 The ideal person:
 
-• Must have a deep portfolio of Pharma work.
-• Solid understanding of Medical, Regulatory, and Legal requirements of digital and social projects is a must-have.
-• Must have developed content, campaigns, social executions, and long-form copy. 
-• Must be available immediately and committed to the continuation of work.
+* Must have a deep portfolio of Pharma work.
+* Solid understanding of Medical, Regulatory, and Legal requirements of digital and social projects is a must-have.
+* Must have developed content, campaigns, social executions, and long-form copy. 
+* Must be available immediately and committed to the continuation of work.
 
 
 Our client is an equal opportunity employer and value diversity at their company. They do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
