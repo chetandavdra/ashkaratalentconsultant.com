@@ -1,8 +1,8 @@
 ---
 title: Creative Director
 date: 2020-09-08 19:05:00 Z
-tags:
-- creative
+categories:
+- Creative
 location: Remote/CA
 ---
 
