@@ -10,7 +10,7 @@ Our client, an award-winning web experiences agency that partners with industry-
 
 As the agency’s Creative Director, you will concept, design, and execute world-class experiences across the digital ecosystem. The Creative Director will report to the founder, you will be a skilled and experienced creative with an inspiring book of digital work, a meticulous eye for detail, lead and foster a collaborative work style, and a compelling approach when presenting ideas. The role is key to shaping creative culture and the work the agency produces.
 
-**The ideal person:**
+The ideal person:
 
 * Minimum 8 years’ experience in a top-tier product company or digital agency.
 
@@ -26,7 +26,6 @@ As the agency’s Creative Director, you will concept, design, and execute world
 
 * Success growing clients, leading pitches, and winning new business.
 
-* You bring a unique perspective, fresh ideas, and world-class design.
-
+* You bring a unique perspective, fresh ideas, and world-class design.\
 
 Our client is an equal opportunity employer and value diversity at their company. They do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
