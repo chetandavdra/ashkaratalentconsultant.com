@@ -1,6 +1,6 @@
 ---
 title: Senior Motion Designer
-date: 2020-06-16 15:32:00 Z
+date: 2020-09-08 15:32:00 Z
 categories:
 - Creative
 location: Los Angeles, CA
