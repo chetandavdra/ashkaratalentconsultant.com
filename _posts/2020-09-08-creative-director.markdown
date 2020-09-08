@@ -26,6 +26,6 @@ The ideal person:
 
 * Success growing clients, leading pitches, and winning new business.
 
-* You bring a unique perspective, fresh ideas, and world-class design.\
+* You bring a unique perspective, fresh ideas, and world-class design.
 
 Our client is an equal opportunity employer and value diversity at their company. They do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
