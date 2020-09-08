@@ -32,6 +32,6 @@ The ideal person:
 
 * Experience with server side caching such as Varnish, Redis, and Memcache.
 
-* Experience with Linux server management, DevOps, and cloud hosting providers (AWS, Digital Ocean, etc).\
+* Experience with Linux server management, DevOps, and cloud hosting providers (AWS, Digital Ocean, etc).
 
 Our client is an equal opportunity employer and value diversity at their company. They do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
