@@ -6,7 +6,7 @@ categories:
 location: Remote/ Washington DC
 ---
 
-Our client is an award-winning web design and development company that transforms and delivers digital and eCommerce solutions for an impressive portfolio of clients. They focus creating new possibilities through an integrated experience and builds partnerships that are designed to last.
+Our client is an award-winning web design and development company that transforms and delivers digital and eCommerce solutions for an impressive portfolio of clients, focusing on creating new possibilities through integrated experiences, building partnerships that are designed to last.
 
 The client is experiencing growth and is seeking to add additional Senior Full-Stack Developers to the team. As an integral member of the engineering team, you must be comfortable with creating scalable and responsive websites for modern platforms, able to work with provided design assets and functional, technical scopes to build open-source CMS-powered websites.
 
