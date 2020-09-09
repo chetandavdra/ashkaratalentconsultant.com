@@ -20,6 +20,6 @@ The ideal person:
 
 * Support creative team with basic post-production (color correction, editing, etc.) of photo and film assets.
 
-* Constantly innovating and maintaining a broad knowledge of design principles, industry trends, and emerging technology.\
+* Constantly innovating and maintaining a broad knowledge of design principles, industry trends, and emerging technology.
 
 Our client is an equal opportunity employer and value diversity at their company. They do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
