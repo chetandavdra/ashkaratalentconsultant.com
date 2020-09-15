@@ -16,7 +16,7 @@ The ideal person:
 
 * An exceptional portfolio of distinctive web experiences.
 
-* Support ongoing develop the strategic vision for a single, large client or multiple small to medium clients.
+* Support and develop a strategic vision for a single, large client or multiple small to medium clients.
 
 * A team player/coach who proactive about soliciting and giving feedback.
 
