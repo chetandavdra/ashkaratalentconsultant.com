@@ -18,14 +18,14 @@ The ideal person:
 
 * Support and develop a strategic vision for a single, large client or multiple small to medium clients.
 
-* A team player/coach who proactive about soliciting and giving feedback.
+* A team player/coach who is proactive about soliciting and giving feedback.
 
 * Direct, manage and mentor a multi-discipline team to turn strategic vision into ideas, designs, and executions.
 
-* Hands-on creating exceptional presentations and designs with the ability to articulate concepts to different types of audience. 
+* Hands-on creating exceptional presentations and designs with the ability to articulate concepts to different types of audiences. 
 
 * Success growing clients, leading pitches, and winning new business.
 
-* You will bring a unique perspective and fresh perspective to clients and the studio.  
+* You will bring a unique and fresh perspective to clients and the studio.  
 
 Our client is an equal opportunity employer and value diversity at their company. They do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
