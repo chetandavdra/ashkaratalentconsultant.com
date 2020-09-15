@@ -8,7 +8,7 @@ location: Remote/CA
 
 Our client, an award-winning web experiences agency that partners with industry-leading brands to re-imagine their customer experience by creating digital products and services with a purpose that impacts both user and client’s business.
 
-As the agency’s Creative Director, you will concept, design, and execute world-class web experiences. The Creative Director will report to the founder, you will be a skilled and experienced creative with an inspiring book of digital work, a meticulous eye for detail, lead and foster a collaborative work style, and a compelling approach when presenting ideas. The role is key to shaping creative culture and the work the agency produces.
+As the agency’s Creative Director, you will concept, design, and execute web experiences. The Creative Director will collaborate with the founder, you will be a skilled and experienced creative with an inspiring book of digital work, a meticulous eye for detail, lead and foster a collaborative work style, and a compelling approach when presenting ideas. The role is key to shaping creative culture and the work the agency produces moving forward.
 
 The ideal person:
 
@@ -16,16 +16,16 @@ The ideal person:
 
 * An exceptional portfolio of distinctive web experiences.
 
-* Help develop the strategic vision for a single, large client or multiple small to medium clients.
+* Support ongoing develop the strategic vision for a single, large client or multiple small to medium clients.
 
-* A dynamic team player and proactive about soliciting and giving feedback.
+* A team player/coach who proactive about soliciting and giving feedback.
 
 * Direct, manage and mentor a multi-discipline team to turn strategic vision into ideas, designs, and executions.
 
-* Get hands-on, creating exceptional presentations and designs.
+* Hands-on creating exceptional presentations and designs with the ability to articulate concepts to different types of audience. 
 
 * Success growing clients, leading pitches, and winning new business.
 
-* You bring a unique perspective, fresh ideas, and world-class design.
+* You will bring a unique perspective and fresh perspective to clients and the studio.  
 
 Our client is an equal opportunity employer and value diversity at their company. They do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
