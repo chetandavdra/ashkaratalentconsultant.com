@@ -8,7 +8,7 @@ location: Remote/CA
 
 Our client, an award-winning web experiences agency that partners with industry-leading brands to re-imagine their customer experience by creating digital products and services with a purpose that impacts both user and client’s business.
 
-As the agency’s Creative Director, you will concept, design, and execute web experiences. The Creative Director will collaborate with the founder, you will be a skilled and experienced creative with an inspiring book of digital work, a meticulous eye for detail, lead and foster a collaborative work style, and a compelling approach when presenting ideas. The role is key to shaping creative culture and the work the agency produces moving forward.
+As the agency’s Creative Director, you will concept, design, and execute web experiences. The Creative Director will partner with the founder. You will be a skilled and experienced creative with an inspiring book of digital work, a meticulous eye for detail, lead and foster a collaborative work style, and a compelling approach when presenting ideas. The role is key to shaping creative culture and the work the agency produces moving forward.
 
 The ideal person:
 
