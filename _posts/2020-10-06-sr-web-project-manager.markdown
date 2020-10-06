@@ -1,5 +1,5 @@
 ---
-title: Senior Web Project Manager
+title: Senior Project Manager
 date: 2020-10-06 13:07:00 Z
 categories:
 - Delivery/Product
