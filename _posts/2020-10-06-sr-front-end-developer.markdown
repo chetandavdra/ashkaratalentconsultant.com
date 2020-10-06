@@ -1,7 +1,6 @@
 ---
 title: Front-End Developer
 date: 2020-10-06 19:18:00 Z
-published: false
 categories:
 - Technology
 location: remote
