@@ -3,7 +3,7 @@ title: Front-End Developer
 date: 2020-10-06 19:18:00 Z
 categories:
 - Technology
-location: remote
+location: Remote
 ---
 
 Our client, an award-winning studio rooted in digital experiences and looking to expand its Technology department. As the Front-End Developer, you will breathe life into visual designs, translate requirements, and static visual designs into interactive web applications across multiple devices.
