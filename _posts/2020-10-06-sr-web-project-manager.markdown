@@ -6,7 +6,7 @@ categories:
 location: San Jose, CA
 ---
 
-Our client, rooted in digital experiences is looking for a Senior Project Manager to join their growing delivery team. The Senior Web Project Manager will exceed the expectations of their clients and teams. You have an excellent understanding of how to manage people and resources efficiently and effectively. You will oversee all touchpoints of a project, including timelines, budgets, schedules, assets, and communication.
+Our client is a small studio rooted in digital products is looking for a Senior Project Manager to join their growing delivery team. The Senior Web Project Manager will exceed the expectations of their clients and teams. You have an excellent understanding of how to manage people and resources efficiently and effectively. You will oversee all touchpoints of a project, including timelines, budgets, schedules, assets, and communication.
 
 The ideal person:
 
