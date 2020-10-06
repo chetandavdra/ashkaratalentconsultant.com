@@ -6,7 +6,7 @@ categories:
 location: remote
 ---
 
-Our client, an award-winning agency rooted in digital experiences and looking to expand its Technology department. As the Front-End Developer, you will breathe life into visual designs, translate requirements, and static visual designs into interactive web applications across multiple devices.
+Our client, an award-winning studio rooted in digital experiences and looking to expand its Technology department. As the Front-End Developer, you will breathe life into visual designs, translate requirements, and static visual designs into interactive web applications across multiple devices.
 
 You will be passionate about development and have hands-on UX experience. Knowledge of good design, UI and UX concepts, Able to translate PSD to pixel-perfect code, accessibility, cross-browser support, and web standards, well-versed in performance and speed optimization techniques, able to create modular, reusable, and maintainable code. You thrive in a collaborative environment with other talented and driven individuals and are hungry to take your creative and leadership/mentorship skills to the next level.
 
