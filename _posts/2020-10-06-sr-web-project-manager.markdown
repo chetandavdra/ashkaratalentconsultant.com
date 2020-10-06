@@ -3,7 +3,7 @@ title: Senior Project Manager
 date: 2020-10-06 13:07:00 Z
 categories:
 - Delivery/Product
-location: San Jose, CA
+location: Remote
 ---
 
 Our client is a small studio rooted in digital products is looking for a Senior Project Manager to join their growing delivery team. The Senior Web Project Manager will exceed the expectations of their clients and teams. You have an excellent understanding of how to manage people and resources efficiently and effectively. You will oversee all touchpoints of a project, including timelines, budgets, schedules, assets, and communication.
