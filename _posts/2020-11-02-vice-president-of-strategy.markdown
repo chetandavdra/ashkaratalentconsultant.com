@@ -11,6 +11,7 @@ Our client is an independent marketing agency; one of the fastest-growing and mo
 As the VP of Strategy, you will be responsible for setting a vision and strategic approach in building out their healthcare practice. You will help to break new ground towards patients and HCPs and translate those insights into world-class creative direction and innovative marketing programs. Also, you will architect how the client will continue to shape their healthcare strategy and insights practice, managing a team of dedicated strategists and planning for how to scale and develop that team, over time.
  
 The Ideal Person:
+
 • Lead a vision for planning brand strategy in pharmaceutical marketing for the experiences of patients and healthcare providers.
 • Develop new methodologies for understanding the experiences of stakeholders and train across the teams.
 • Set a vision and further develop an approach to using empathy and emotional insights to understand problems and unlock innovative solutions for patients and HCPs.
@@ -20,6 +21,7 @@ The Ideal Person:
 • Troubleshooting and problem-solving in collaboration with senior cross-functional team leaders around client and team challenges, seeking continuous improvement.
 
 KNOWLEDGE, SKILLS, AND ABILITIES REQUIRED:
+
 • Bachelor’s Degree in Marketing, Business Administration, or related field.
 • 10+ years of industry/sector academic and practical experience with a wide array of new products, brands, advertising, and research methodologies.
 • Highly motivated, with strong strategic leadership skills
