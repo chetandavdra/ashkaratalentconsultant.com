@@ -1,6 +1,7 @@
 ---
 title: Vice President of Strategy
 date: 2020-11-02 16:19:00 Z
+published: false
 categories:
 - Strategy
 location: Remote / PA / NYC / MD
