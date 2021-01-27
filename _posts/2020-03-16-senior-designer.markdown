@@ -1,19 +1,18 @@
 ---
-title: Senior Digital Designer
+title: Senior Designer
 date: 2020-03-16 19:53:00 Z
-published: false
 categories:
 - Creative
 location: San Jose, CA
 ---
 
-Our client, an award-winning agency rooted in digital experiences and named agency to watch for in 2020, is growing and looking to expand their creative department.
+Our client, an award-winning agency rooted in digital experiences and named agency to watch for in 2020, is growing and looking to expand its creative department.
 
-Our client is looking for a Sr. Digital Designer who is passionate, experienced UI/UX designer to elevate, high-fidelity website design concepts for brands across multiple industries, including B2B/B2C technology, eCommerce/retail, and more. You thrive in a collaborative environment with other talented and driven individuals and are hungry to take your creative and mentorship skills to the next level.
+Our client is looking for a Senior Designer who is a passionate, experienced web designer to elevate, high-fidelity website design concepts for brands across multiple industries, including B2B/B2C technology, eCommerce/retail, and more. You thrive in a collaborative environment with other talented and driven individuals and are hungry to take your creative and mentorship skills to the next level.
 
 **The ideal person:**
 
-- 4\+ years of experience at a leading digital agency or as a seasoned freelancer
+- 4+ years of experience at a leading digital agency or as a seasoned freelancer
 
 - Comprehensive understanding of web, digital design, and user experience
 
