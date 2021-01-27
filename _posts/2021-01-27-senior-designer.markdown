@@ -1,6 +1,6 @@
 ---
 title: Senior Designer
-date: 2020-03-16 19:53:00 Z
+date: 2021-01-27 19:53:00 Z
 categories:
 - Creative
 location: San Jose, CA
