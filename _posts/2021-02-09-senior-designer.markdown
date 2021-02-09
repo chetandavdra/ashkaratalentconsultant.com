@@ -1,7 +1,6 @@
 ---
 title: Senior Designer
 date: 2021-02-09 19:53:00 Z
-published: false
 categories:
 - Creative
 location: Remote
