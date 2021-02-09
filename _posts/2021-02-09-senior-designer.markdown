@@ -1,15 +1,15 @@
 ---
 title: Senior Designer
-date: 2021-01-27 19:53:00 Z
+date: 2021-02-09 19:53:00 Z
 published: false
 categories:
 - Creative
-location: San Jose, CA
+location: Remote
 ---
 
-Our client, an award-winning agency rooted in digital experiences and named agency to watch for in 2020, is growing and looking to expand its creative department.
+Our client, an award-winning agency rooted in digital experiences and named an agency to watch for in 2021.
 
-Our client is looking for a Senior Designer who is a passionate, experienced web designer to elevate, high-fidelity website design concepts for brands across multiple industries, including B2B/B2C technology, eCommerce/retail, and more. You thrive in a collaborative environment with other talented and driven individuals and are hungry to take your creative and mentorship skills to the next level.
+The client is looking for a Senior Designer who is a passionate, and experienced web designer to elevate, high-fidelity website design concepts for brands across multiple industries, including B2B/B2C technology, eCommerce/retail, and more. You thrive in a collaborative environment with other talented and driven individuals and are hungry to take your creative and mentorship skills to the next level.
 
 **The ideal person:**
 
@@ -19,7 +19,7 @@ Our client is looking for a Senior Designer who is a passionate, experienced web
 
 - Ability to communicate and back-up design decisions in a client setting
 
-- Design-driven, but strategy-led approach to executing visuals concepts
+- Design-driven, with a strategy-led approach to executing visuals concepts
 
 - Exceptional eye for design with a good pulse on current trends and best practices
 
